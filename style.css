@@ -19,3 +19,28 @@ div {
 .tooth {
     text-align: center;
 }
+.extra {
+    color: green;
+}
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+    font-family: montserrat;
+}
+nav {
+    background-color: red;
+    height: 65px;
+}
+label {
+    color: white;
+    font-size: 35px;
+    padding: 30px;
+    line-height: 65px;
+}
+nav ul {
+    float: right;
+    display: inline-block;
+}
