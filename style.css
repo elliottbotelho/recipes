@@ -43,4 +43,24 @@ label {
 nav ul {
     float: right;
     display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+}
+a {
+    color: blue;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+a:hover {
+    background:red;
+}
+.work {
+    color: white;
+    font-size: 35px;
+    text-transform: none;
+}
+.checkbtn {
+    font-size: 30px;
+    color: white;
+
 }
